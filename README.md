@@ -1,2 +1,2 @@
 # url-shortner
-Noje and Express url shorten
+Node.js and Express url shortner app
